@@ -1,0 +1,16 @@
+.registr {
+  margin-left: auto;
+  margin-right: auto;
+
+  border: 1px solid rgb(152, 152, 152);
+  padding: 10px;
+  width: 30%;
+  margin-top: 30px;
+  border-radius: 10px;
+  box-shadow: 7px 7px 7px 5px rgb(160, 160, 160);
+}
+
+.registr input {
+  margin-bottom: 10px;
+  width: 80%;
+}

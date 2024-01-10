@@ -1,0 +1,26 @@
+.js-form {
+  margin: 40px 0;
+}
+.js-form input {
+  border-radius: 10px;
+  margin-right: 20px;
+  width: 30%;
+}
+
+.js-form input:hover {
+  box-shadow: 5px 5px 5px 5px rgb(145, 145, 145);
+}
+
+.list_item {
+  align-items: center;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 10px 5px;
+}
+
+.list_item p {
+  font-size: 18px;
+}
+.list_item small {
+  font-size: 20px;
+}
